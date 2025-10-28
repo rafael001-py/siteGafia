@@ -1,0 +1,42 @@
+
+-- BYD
+INSERT INTO carro (ano_carro, dur_bat, id_marca, id_modelo, tipo)
+VALUES
+	(2025, 38, 1, 1, 'Elétrico'),
+	(2025, 44.9, 1, 2, 'Elétrico'),
+	(2025, 85.4, 1, 8, 'Elétrico'),
+	(2025, 60.48, 1, 4, 'Elétrico'),
+	(2025, 45.1, 1, 5, 'Elétrico'),
+	(2025, 82.56, 1, 3, 'Elétrico')
+
+-- GWM
+
+INSERT INTO carro (ano_carro, dur_bat, id_marca, id_modelo, tipo)
+VALUES
+	(2026, 58, 2, 15, 'Elétrico'),
+	(2026, 63, 2, 16, 'Elétrico'),
+	(2026, 1.6, 2, 49, 'Elétrico'),
+	(2026, 1.6, 2, 50, 'Elétrico')
+	
+-- TESLA
+INSERT INTO carro (ano_carro, dur_bat, id_marca, id_modelo, tipo)
+VALUES
+	(2023, 60, 11, 32, 'Elétrico'),
+	(2023, 57.3, 11, 31, 'Elétrico')
+	
+-- TOYOTA
+INSERT INTO carro (ano_carro, dur_bat, id_marca, id_modelo, tipo)
+VALUES
+	(2023, 60, 11, 32, 'Elétrico'),
+	(2023, 57.3, 11, 31, 'Elétrico')
+
+-- RENAUT
+INSERT INTO carro (ano_carro, dur_bat, id_marca, id_modelo, tipo)
+VALUES
+	(2026, 26.8, 4, 20, 'Elétrico'),
+	(2025, 52, 4, 21, 'Elétrico')
+	
+-- AUDI
+INSERT INTO carro (ano_carro, dur_bat, id_marca, id_modelo, tipo)
+VALUES
+	(2026, 82, 9, 28, 'Elétrico')
